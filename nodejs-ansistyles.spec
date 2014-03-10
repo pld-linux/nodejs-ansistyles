@@ -5,9 +5,9 @@ Version:	0.1.3
 Release:	1
 License:	MIT
 Group:		Development/Libraries
-URL:		https://github.com/thlorenz/ansistyles
 Source0:	http://registry.npmjs.org/%{pkg}/-/%{pkg}-%{version}.tgz
 # Source0-md5:	f0d628c13689293af7bfd7184c8f5de5
+URL:		https://github.com/thlorenz/ansistyles
 BuildRequires:	rpmbuild(macros) >= 1.634
 Requires:	nodejs
 BuildArch:	noarch
